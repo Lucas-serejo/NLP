@@ -1,0 +1,8 @@
+# Ignorar pastas de checkpoints e modelos treinados (muito grandes para o GitHub)
+**/checkpoints_emotion_distilbert/
+**/checkpoints_emotion_roberta/
+**/modelo_emotion_distilbert/
+
+# Ignorar logs do TensorBoard
+**/logs_emotion_distilbert/
+**/logs_emotion_roberta/
