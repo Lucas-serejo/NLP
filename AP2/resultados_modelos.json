@@ -1,0 +1,23 @@
+{
+  "TF-IDF + Regress\u00e3o Log\u00edstica (Baseline)":{
+    "accuracy":0.8915,
+    "precision_macro":0.8309406216,
+    "recall_macro":0.8965885611,
+    "f1_macro":0.8557615982,
+    "f1_weighted":0.8944317065
+  },
+  "DistilBERT fine-tuned (Transformer)":{
+    "accuracy":0.927,
+    "precision_macro":0.8722990322,
+    "recall_macro":0.9131766394,
+    "f1_macro":0.8900647323,
+    "f1_weighted":0.9284734543
+  },
+  "RoBERTa fine-tuned (Experimento Opcional)":{
+    "accuracy":0.924,
+    "precision_macro":0.8673871806,
+    "recall_macro":0.92745926,
+    "f1_macro":0.8908224683,
+    "f1_weighted":0.9259218668
+  }
+}
